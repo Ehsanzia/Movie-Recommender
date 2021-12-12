@@ -1,4 +1,4 @@
-# Movie-Recommender-Project
+# Movie-Recommender
 Content Based Recommendation System for Movie
 
 Summary
